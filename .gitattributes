@@ -1,0 +1,6 @@
+# Keep LF on checkout. workflow_skeleton.json must stay byte-faithful to the n8n export
+# (UTF-8, no BOM, LF) or a re-import on stage can choke; see AGENTS.md.
+* text=auto eol=lf
+*.glb binary
+*.png binary
+*.jpg binary

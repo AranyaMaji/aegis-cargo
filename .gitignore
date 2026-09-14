@@ -1,0 +1,34 @@
+# Dependencies and build output
+node_modules/
+dist/
+build/
+.wrangler/
+
+# Secrets — never commit. .env.example is the template that IS committed.
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+
+# Throwaway render copies from the design artboard pipeline (see AGENTS.md)
+design/preview-*
+design/fit-*
+design/big-*
+
+# OS / editor noise
+Thumbs.db
+.DS_Store
+*.swp
+*.bak
+.idea/
+.vscode/
+AGENTS.md
+CLAUDE.md
