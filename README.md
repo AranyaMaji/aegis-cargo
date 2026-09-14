@@ -18,9 +18,11 @@
 
 ## 1. Executive Summary & Problem
 
-Global logistics carries over **\$58 Million** in temperature-critical biological therapeutics (monoclonal antibodies, cell therapies, and mRNA vaccines) through high-risk geopolitical chokepoints (Bab-el-Mandeb, Strait of Malacca, Suez Canal, North Atlantic air corridors).
+The biopharmaceutical industry suffers over **\$35 Billion in annual losses** due to cold-chain temperature excursions and logistics failures (IQVIA Institute benchmark). Between 7% and 12% of all temperature-critical shipments—encompassing high-value monoclonal antibodies, cell therapies, and mRNA vaccines—experience thermal degradation or geopolitical disruption in transit through high-risk bottlenecks (Bab-el-Mandeb, Strait of Malacca, Suez Canal, North Atlantic air corridors).
 
-Under **EU Good Distribution Practice (2013/C 343/01)** and **FDA 21 CFR Part 211**, thermal excursions are binary: if cumulative thermal degradation breaches the stability ceiling (+8.0°C), **the entire consignment must legally be destroyed**. Cargo owners cannot discount, reprocess, or re-route expired biologics.
+Under **EU Good Distribution Practice (2013/C 343/01)** and **FDA 21 CFR Part 211**, thermal excursions are binary: if cumulative thermal degradation breaches the stability ceiling (+8.0°C), **the entire consignment must legally be destroyed**. Cargo owners cannot discount, salvage, or re-route expired biologics—forcing carriers into destructive constructive total losses while patients face critical drug stock-outs.
+
+To prove autonomous interception before kinetic stability collapses, AEGIS-CARGO was stress-tested across an empirical **\$58.2 Million** fleet evaluation benchmark (25 production crisis scenarios across sea and air corridors):
 
 ```mermaid
 pie title Fleet Economic Impact ($58.2M Total Biologics Value Monitored)
